@@ -27,7 +27,7 @@ const projects = [
   },
   {
     title: "Finance System",
-    url: "finance.kindbridgesolution.com",
+    url: "finance.kindbridge.co.za",
     description: "金融管理系统",
     category: "Finance",
     color: "bg-green-500",
